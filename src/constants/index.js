@@ -1,4 +1,4 @@
-import project1 from "C:/Users/lenovo/OneDrive/Desktop/react-portfolio/src/assets/projects/Air Canvas.png";
+import project1 from "../assets/projects/AirCanvas.png";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/image.png";
 import project4 from "../assets/projects/project-4.jpg";
