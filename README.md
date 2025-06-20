@@ -2,6 +2,8 @@
 
 An interactive, purpose-driven portfolio that captures my evolving journey in technology—blending a passion for impactful engineering with a commitment to building meaningful, user-centric projects. Designed with modern tools to deliver blazing-fast performance, seamless responsiveness, and accessibility across devices.
 
+[![Live Site](https://img.shields.io/badge/Live%20Demo-%20devanshi--goyal--portfolio.vercel.app-brightgreen?style=flat-square&logo=vercel)](https://devanshi-goyal-portfolio.vercel.app)
+
 
 ## 💡 Overview
 
