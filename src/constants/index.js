@@ -1,6 +1,6 @@
-import project1 from "../assets/projects/project-1.jpg";
+import project1 from "C:/Users/lenovo/OneDrive/Desktop/react-portfolio/src/assets/projects/Air Canvas.png";
 import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
+import project3 from "../assets/projects/image.png";
 import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I’m an enthusiastic first-year student at Indira Gandhi Delhi Technical University for Women, 
@@ -65,12 +65,13 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Air Canvas 🎨",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "Air Canvas is a creative and intuitive application that allows users to draw on a virtual canvas using hand gestures, eliminating the need for physical tools. By harnessing the power of computer vision, the project showcases how technology can transform traditional art creation into a touch-free and interactive experience..",
+    technologies: ["Languages/Tools: Python , Libraries: OpenCV, NumPy, MediaPipe , Hardware Requirements: Camera-enabled device" ],
   },
+  /*
   {
     title: "Task Management App",
     image: project2,
@@ -78,13 +79,16 @@ export const PROJECTS = [
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
     technologies: ["HTML", "CSS", "Angular", "Firebase"],
   },
+  */
   {
     title: "Portfolio Website",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      technologies: ["HTML", "CSS", "Javascript" , "React" ],
   },
+
+  /*
   {
     title: "Blogging Platform",
     image: project4,
@@ -92,6 +96,7 @@ export const PROJECTS = [
       "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
     technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
   },
+  */
 ];
 
 export const CONTACT = {
